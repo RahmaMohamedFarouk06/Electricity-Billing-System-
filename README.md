@@ -1,2 +1,2 @@
 # Electricity-Billing-System-
-End-to-end solution for electricity providers to manage customer billing, meter readings and payments. Features automated notifications, operator tools and admin analytics.
+GUI-based platform for electricity providers to handle billing cycles, meter data, and payments. Includes automated alerts, operator consoles, and real-time consumption analytics.
