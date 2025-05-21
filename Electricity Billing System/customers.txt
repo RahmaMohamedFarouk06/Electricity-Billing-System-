@@ -1,0 +1,98 @@
+Name: rahma
+NID: 12345678909876
+Address: ww
+Email: r@rr.com
+Meter Code: MTR-9876
+Region: ww
+Phone Number: 12345678909
+Current Reading: 55
+Last Reading: 50
+Balance Due: 0
+Unpaid Months: 0
+Complaint: true
+Stop and Cancel: false
+--------------------------------------------------
+Name: rana
+NID: 09876543211234
+Address: qq
+Email: rana@r.com
+Meter Code: MTR-1234
+Region: cairo
+Phone Number: 12345678909
+Current Reading: 70
+Last Reading: 55
+Balance Due: 0
+Unpaid Months: 0
+Complaint: true
+Stop and Cancel: false
+--------------------------------------------------
+Name: mohamed
+NID: 56789043214567
+Address: maadi
+Email: rahma@c.com
+Meter Code: MTR-4567
+Region: cairo
+Phone Number: 12345678909
+Current Reading: 0
+Last Reading: 0
+Balance Due: 0
+Unpaid Months: 0
+Complaint: false
+Stop and Cancel: true
+--------------------------------------------------
+Name: rahma
+NID: 12345678909879
+Address: maadi
+Email: rahma@2.com
+Meter Code: MTR-9879
+Region: cairo
+Phone Number: 1097464951
+Current Reading: 0
+Last Reading: 0
+Balance Due: 0
+Unpaid Months: 0
+Complaint: false
+Stop and Cancel: false
+--------------------------------------------------
+Name: mariam mo
+NID: 98765433142345
+Address: maadi
+Email: m@m.com
+Meter Code: MTR-2345
+Region: cairo
+Phone Number: 12345678909
+Current Reading: 85
+Last Reading: 80
+Balance Due: 0
+Unpaid Months: 1
+Complaint: false
+Stop and Cancel: false
+--------------------------------------------------
+Name: ahmed
+NID: 12345678942390
+Address: maadi
+Email: wft@gmail.com
+Meter Code: MTR-2390
+Region: alex
+Phone Number: 123456789
+Current Reading: 50
+Last Reading: 0
+Balance Due: 0
+Unpaid Months: 1
+Complaint: false
+Stop and Cancel: false
+--------------------------------------------------
+Name: sdfgh
+NID: 99999999999999
+Address: zxfgh
+Email: aaa@gmail.com
+Meter Code: MTR-9999
+Region: sdfg
+Phone Number: 1067657511
+Current Reading: 0
+Last Reading: 0
+Balance Due: 0
+Unpaid Months: 0
+Complaint: false
+Stop and Cancel: false
+--------------------------------------------------

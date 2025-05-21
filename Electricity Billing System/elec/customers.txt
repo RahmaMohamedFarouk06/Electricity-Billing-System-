@@ -1,0 +1,28 @@
+Name: rahma
+NID: 12345678909876
+Address: ww
+Email: r@rr.com
+Meter Code: MTR-9876
+Region: ww
+Phone Number: 12345678909
+Current Reading: 50
+Last Reading: 0
+Balance Due: 0
+Unpaid Months: 0
+Complaint: true
+Stop and Cancel: false
+--------------------------------------------------
+Name: rana
+NID: 09876543211234
+Address: qq
+Email: rana@r.com
+Meter Code: MTR-1234
+Region: cairo
+Phone Number: 12345678909
+Current Reading: 70
+Last Reading: 55
+Balance Due: 50
+Unpaid Months: 3
+Complaint: true
+Stop and Cancel: false
+--------------------------------------------------

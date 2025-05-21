@@ -1,0 +1,9 @@
+Operator Name: rahma
+Total Collected: 0.0
+--------------------------------------------------
+Operator Name: abdelrahman
+Total Collected: 50.0
+--------------------------------------------------
+Operator Name: yoyo
+Total Collected: 0.0
+--------------------------------------------------
